@@ -6,7 +6,9 @@ export const environment = {
   production: false,
 
   // add your custom environment configs
+  // luv2shop backend base url
   luv2shopApiUrl:"https://localhost:9898/api",
+  // stripe public key
   stripePublishableKey:"pk_test_51Mg5xYEjhEiFejdysacxM4eKX0AEkV57am5UHLJRmHowfiAro2f9oUFxpSZmnKyGyWqTu8sMm5TRZN7jRBuW7BXa00RRoPM6vm"
 };
 

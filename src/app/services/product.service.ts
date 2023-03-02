@@ -10,7 +10,6 @@ import { ProductCategory } from '../common/product-category';
 })
 export class ProductService {
 
-
   private baseUrl =  environment.luv2shopApiUrl +'/products';
   private categoryUrl =  environment.luv2shopApiUrl +'/product-category';
   
