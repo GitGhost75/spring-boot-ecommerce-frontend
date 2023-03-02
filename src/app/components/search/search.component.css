@@ -1,0 +1,9 @@
+/*
+    overwrite styles.css
+    -> min-width: 800px instead of 935px
+*/
+.au-search-input-xl{
+    min-width:500px;
+    border-radius:40px!important;
+    margin-right:15px
+}
